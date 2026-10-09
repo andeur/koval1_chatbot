@@ -1,0 +1,162 @@
+[
+  {
+    "question": "Quels sont les différents domaines où les patterns peuvent être représentés de manière visuelle, sonore, textuelle, etc. ?",
+    "source": "Cours de RdF M1 IA et SD 2025_2.pdf",
+    "pages": [
+      46,
+      48
+    ]
+  },
+  {
+    "question": "Quels sont les thèmes de recherche proposés pour les travaux pratiques et les pistes de recherche ?",
+    "source": "cours_reconnaissance_formes.pdf",
+    "pages": [
+      16,
+      18
+    ]
+  },
+  {
+    "question": "Comment fonctionne un système expert en intelligence artificielle ?",
+    "source": "Fiche_revision_Ontologie_Web_Semantique_Partie1.pdf",
+    "pages": [
+      4,
+      6
+    ]
+  },
+  {
+    "question": "Quels sont les types RDF associés aux ressources \"http://www.essi.fr/cours/log11\" et \"Olivier.Corby\" dans le graphe de données RDF ?",
+    "source": "graphe_rdfs_resolution.pdf",
+    "pages": [
+      1,
+      3
+    ]
+  },
+  {
+    "question": "Quels sont les principaux objectifs et types d'apprentissage de l'intelligence artificielle présentés dans le cours IFT608 ?",
+    "source": "ift608-ift702-01-intro.pdf",
+    "pages": [
+      16,
+      18
+    ]
+  },
+  {
+    "question": "Quelles sont les trois types principaux d'éléments de conteneur disponibles dans RDF, ainsi que leurs caractéristiques ?",
+    "source": "MIT_Press_-_A_Semantic_Web_Primer_-_2004_-_By_Laxxuss__125756.pdf",
+    "pages": [
+      95,
+      97
+    ]
+  },
+  {
+    "question": "Qu'est-ce que RDFLib est et comment est-il utilisé dans le contexte des données liées ?",
+    "source": "programming-the-semantic-web.9780596153816.47455_125420.pdf",
+    "pages": [
+      291,
+      293
+    ]
+  },
+  {
+    "question": "Quelle est la base de la raison déductive en modélisation BDI ?",
+    "source": "ReallyUsefulEbooks.com_0199292485_Oxford.Press.Agency.and.the.Semantic.Web.Nov.2006.eBook-BBL_125600.pdf",
+    "pages": [
+      132,
+      134
+    ]
+  },
+  {
+    "question": "Quels domaines d'application bénéficient de la reconnaissance des formes pour une interprétation automatique et une meilleure compréhension des informations contenues dans les images et les vidéos ?",
+    "source": "Cours de RdF M1 IA et SD 2025_2.pdf",
+    "pages": [
+      11,
+      13
+    ]
+  },
+  {
+    "question": "Quelle est la règle de décision utilisée par la méthode de reconnaissance de formes basée sur la règle de Bayes ?",
+    "source": "cours_reconnaissance_formes.pdf",
+    "pages": [
+      9,
+      11
+    ]
+  },
+  {
+    "question": "Quelles connaissances doivent être représentées par un système informatique dans le cadre de l'ingénierie des connaissances ?",
+    "source": "Fiche_revision_Ontologie_Web_Semantique_Partie1.pdf",
+    "pages": [
+      6,
+      8
+    ]
+  },
+  {
+    "question": "Quelles sont les classes et les propriétés principales définies dans le modèle RDF(S) pour la modélisation des cours et des personnes ?",
+    "source": "graphe_rdfs_resolution.pdf",
+    "pages": [
+      0,
+      2
+    ]
+  },
+  {
+    "question": "Qu'est-ce que reconnaître les intentions d'un autre agent dans l'interaction humain-machine vise à résoudre ?",
+    "source": "ift608-ift702-01-intro.pdf",
+    "pages": [
+      12,
+      14
+    ]
+  },
+  {
+    "question": "Qu'est-ce qu'une Web service complexe ?",
+    "source": "MIT_Press_-_A_Semantic_Web_Primer_-_2004_-_By_Laxxuss__125756.pdf",
+    "pages": [
+      214,
+      216
+    ]
+  },
+  {
+    "question": "Quels sont les nouveaux éléments de recherche introduits dans cette nouvelle fonctionnalité ?",
+    "source": "programming-the-semantic-web.9780596153816.47455_125420.pdf",
+    "pages": [
+      226,
+      228
+    ]
+  },
+  {
+    "question": "Quelle stratégie de compromis est considérée comme l'une des trois stratégies les plus populaires pour déterminer la persistance des intentions d'un agent ?",
+    "source": "ReallyUsefulEbooks.com_0199292485_Oxford.Press.Agency.and.the.Semantic.Web.Nov.2006.eBook-BBL_125600.pdf",
+    "pages": [
+      105,
+      107
+    ]
+  },
+  {
+    "question": "Qu'est-ce que la reconnaissance des formes, une discipline à cheval entre les mathématiques et l'intelligence artificielle ?",
+    "source": "Cours de RdF M1 IA et SD 2025_2.pdf",
+    "pages": [
+      5,
+      7
+    ]
+  },
+  {
+    "question": "Quelles sont les étapes principales d'un système de reconnaissance des formes ?",
+    "source": "cours_reconnaissance_formes.pdf",
+    "pages": [
+      3,
+      5
+    ]
+  },
+  {
+    "question": "Comment les métadonnées peuvent-elles aider à rendre le Web plus sémantique et à améliorer la recherche avec des mots-clés?",
+    "source": "Fiche_revision_Ontologie_Web_Semantique_Partie1.pdf",
+    "pages": [
+      9,
+      11
+    ]
+  },
+  {
+    "question": "Quelle date limite de remise pour le devoir 2 est fixée ?",
+    "source": "ift608-ift702-01-intro.pdf",
+    "pages": [
+      18,
+      20
+    ]
+  }
+]
